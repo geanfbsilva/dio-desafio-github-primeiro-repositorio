@@ -1,0 +1,18 @@
+ssh-keygen -t ed25519 -C geandson_fbs@hotmail.com
+
+pwd - mostra a pasta que você está dentro do git
+ls - lista arquivos dentro da pasta
+cd - para abrir pasta, entrar nela
+Meu token - 
+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
+
+CRIANDO COMMIT
+- git init- COMANDO UTILIZADO PARA INICIAR A PASTA PARA UTILIZAÇAO DO GIT, ele inicializa um repositorio
+- git add
+- git commit -m "mensagem"
+
+CONFIGURANDO EMAIL- git config --global user.email"geandson_fbs@hotmail.com"
+CONFIGURANDO NOME- git config --global user.name GEANDSON
+
+ git remote add origin para empurrar o arquivo para o gitHub
+git remote -v = COMANDO PARA VERIFICAR QUAIS SÃO OS ARQUIVOS REMOTOS
